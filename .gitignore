@@ -8,8 +8,6 @@ yarn-error.log
 .DS_Store
 
 # Secrets
-.env
-.env.development
 .env.production
 
 .vercel
